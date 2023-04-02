@@ -10,10 +10,6 @@
 <img src='./projectImages/signUp.jpg' />
 <img src='./projectImages/login.jpg'/>
 <img src='./projectImages/loginSuccess.jpg' />
-<img src='./projectImages/noteAdded.jpg' />
-<img src='./projectImages/notesPage.jpg' />
-<img src='./projectImages/noteDeleted.jpg' />
-<img src='./projectImages/noteAfterDelete.jpg' />
 
 ## Run Locally
 
