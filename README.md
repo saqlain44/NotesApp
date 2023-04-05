@@ -1,6 +1,6 @@
 # NotesApp
 
-<<<NotesApp User Manual>>>
+NotesApp User Manual
 
 Welcome to NotesApp! This is a web application designed to help you keep track of your notes and stay organized. This user manual will guide you through the various features of NotesApp and show you how to use them effectively.
 
